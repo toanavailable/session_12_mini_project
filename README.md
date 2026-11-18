@@ -4,3 +4,4 @@ Tổng hợp bài tập và mini project của Session 12. Mỗi bài là một 
 
 ## Danh sách bài
 
+- [Mini Project: Cơ sở dữ liệu "Social Network"](./social-network/)
